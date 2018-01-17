@@ -3,6 +3,7 @@
 2018 Jan 17, made by Jeon
 
 */
+
 #include <cstdio>
 int main(void)
 {
